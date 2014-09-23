@@ -42,6 +42,9 @@ Control Panel
 
 Central Unit
 ============
+- power switch
+- 10x2 monochrome display
+- 2 buttons to operate system
 - controller
 - siren
 - siren relay
