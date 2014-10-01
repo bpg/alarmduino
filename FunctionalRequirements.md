@@ -49,7 +49,8 @@ Central Unit
 - siren
 - siren relay
 - ethernet controller
-- 12v power supplu
+- 12v power supplier
 - downshifting power controller
 - RS-485 module
 - RTC clock
+- 4 LEDs: green, blue, yellow, red
